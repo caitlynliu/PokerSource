@@ -1,3 +1,16 @@
+@Caitlyn Liu - Add 
+
+=============
+
+Extended the hand comparison test program in the "project" folder
+hvh.c outputs hvh.csv which contains all probabilities of h1 beating h2
+
+
+=============
+
+
+
+
 $Id: README 1773 2006-10-12 11:34:41Z loic $
 
 Introduction
